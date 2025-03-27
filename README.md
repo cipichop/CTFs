@@ -4,7 +4,7 @@ Write ups repository for CTF challenges I have solved, either solves in the comp
 
 | Year | CTF |
 |------|-----|
-| 2022 | [TED 2022](2022/TED2022/) |
-| 2023 | [JOINTS 2023](2023/JOINTS%202023/)
-|| [WreckIT 4.0](2023/WreckIT%204.0/)
-|| [ARA 2023](2023/ARA%202023/)
+| 2022 | [TED 2022](./2022_TED/) |
+| 2023 | [JOINTS 2023](./2023_JOINTS/)
+|| [WreckIT 4.0](./2023_WreckIT4.0/)
+|| [ARA 2023](./2023_ARA/)
