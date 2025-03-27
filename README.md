@@ -9,3 +9,4 @@ Write ups repository for CTF challenges I have solved, either solves in the comp
 || [WreckIT 4.0](./2023_WreckIT4.0/) | `FOR` `REV` `CRY`
 || [ARA 4.0](./2023_ARA/) | `FOR` `MISC`
 || [COMPFEST15](./2023_COMPFEST15/) | `FOR` `REV` `MISC`
+|| [Hology 6.0](./2023_Hology6.0/) | `FOR` `REV` `PWN`
